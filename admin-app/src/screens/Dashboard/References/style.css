@@ -1,0 +1,29 @@
+.references .searchFormWrapper {
+  margin-bottom: 15px;
+}
+
+.references .searchForm {
+  display: inline-block;
+}
+
+:global .references .searchForm .ant-form-item-label{
+  line-height: inherit;
+}
+
+.references .ant-table-tbody > tr > td {
+  max-width: 185px;
+}
+
+.references .totalReferences {
+  float: right;
+}
+
+.references .ant-alert {
+  margin-bottom: 20px;
+}
+
+@media (min-width: 1200px) {
+  :global .references .ant-input.txtSearch {
+      width: 400px;
+  }
+}

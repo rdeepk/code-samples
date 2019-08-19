@@ -1,0 +1,30 @@
+.promoCodes .add-button {
+  margin: 20px 0;
+  background-color: #eee;
+}
+
+.promoCodes .code .ant-form-item-control-wrapper {
+  width: 100%
+}
+
+.promoCodes .radio-button {
+  margin: 20px 0;
+}
+
+.ant-modal-footer {
+  text-align: left;
+}
+
+.ant-modal-footer .delete-button {
+  background-color: #D8A59F;
+}
+
+.ant-table-thead > tr > th, td {
+  text-align: center;
+}
+
+.error {
+  margin: 10px 0;
+  color: #ee0000;
+  text-align: center;
+}

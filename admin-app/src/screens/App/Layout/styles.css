@@ -1,0 +1,20 @@
+.admin .ant-layout-header {
+  background: #fff;
+  padding: 0;
+  height: auto;
+}
+
+.headerDropdown {
+  text-align: right;
+}
+
+.header .profile-menu {
+  display: inline-block;
+}
+
+.header .profile-menu img {
+  border-radius: 50%;
+  height: 2rem;
+  width: 2rem;
+  margin-right: 5px;
+}

@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+.admin .agreements .agreementText {
+  background: #fff;
+  min-height: 200px;
+  padding: 60px 40px;
+  margin-bottom: 20px;
+  border: 1px solid #d9d9d9;
+  max-height: 500px;
+  overflow-y: scroll;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+.admin .agreements .agreementText ul, 
+.admin .agreements .agreementText ol {
+  display: block;
+  -webkit-margin-before: 0;
+}
+
+.admin .ant-form-item-label {
+  display: block;
+  text-align: left;
+}
+
+.admin .agreements button {
+  margin: 10px 20px 20px 0;
+}
+
+.admin .edit-agreement .rdw-link-modal {
+  height: auto;
+}
+
+.admin .edit-agreement .rdw-link-modal-btn {
+  height: auto;
+}
+
+.admin .public-DraftStyleDefault-block {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.admin.ant-layout {
+  background: transparent;
+}
+
+.admin .ant-form-item-control {
+  line-height: 24px;
+}
+
+.admin .ant-form-item .hake-draft-editor {
+  max-height: 500px;
+  padding: 60px 40px;
+  min-height: 200px;
+  font-family: 'Open Sans', sans-serif;
+}
+.admin .ant-form-item h1 .public-DraftStyleDefault-block {
+  font-size: 30px;
+}
+
+.headings h1{
+  font-size: 50px;
+}

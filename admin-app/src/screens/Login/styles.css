@@ -1,0 +1,20 @@
+.admin .loginForm {
+  text-align: center;
+  border: 1px solid #ccc;
+  margin: 50px 0;
+  padding: 40px 10px;
+}
+
+.admin .ant-form-explain {
+  text-align: left;
+  padding-left: 2px;
+}
+
+.logo {
+  padding-bottom: 30px;
+}
+
+.error {
+  margin: 10px 0;
+  color: #ee0000;
+}
